@@ -1,0 +1,15 @@
+{
+  "name": "programacao_orientada_objetos_2023.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "audio.js",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
